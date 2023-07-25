@@ -1,0 +1,64 @@
+"Metadata"
+{
+	"GUID" "41b72bc234fe467bbb63e1916d965b5c"
+	"Type" "SDG.Unturned.WeatherAsset, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+}
+"Asset"
+{
+	"Component_Type" "SDG.Unturned.LegacyRainComponent, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+	"Volume_Mask" "1"
+	"Fade_In_Duration" "20"
+	"Fade_Out_Duration" "20"
+	"Override_Fog" "true"
+	"Override_Atmospheric_Fog" "true"
+	"Override_Cloud_Colors" "true"
+	"Shadow_Strength_Multiplier" "0.2"
+	"Fog_Blend_Exponent" "1.25"
+	"Cloud_Blend_Exponent" "0.5"
+	"Wind_Main" "0.3"
+	"Ambient_Audio_Clip" "Sounds/Weather/BuakRain.ogg"
+	"Dawn"
+	{
+		"Fog_Color"
+		{
+			"Level_Enum" "SKY_SKY"
+		}
+		"Fog_Density" "1"
+	}
+	"Midday"
+	{
+		"Fog_Color"
+		{
+			"Level_Enum" "SKY_SKY"
+		}
+		"Fog_Density" "1"
+	}
+	"Dusk"
+	{
+		"Fog_Color"
+		{
+			"Level_Enum" "SKY_SKY"
+		}
+		"Fog_Density" "1"
+	}
+	"Midnight"
+	{
+		"Fog_Color"
+		{
+			"Level_Enum" "SKY_SKY"
+		}
+		"Fog_Density" "1"
+	}
+	"Effects"
+	[
+		{
+			"Prefab" "Effects/Weather/BuakRain.prefab"
+			"Emission_Exponent" "1.0"
+			"Pitch" "88.0"
+			"Translate_With_View" "true"
+			"Rotate_Yaw_With_Wind" "true"
+		}
+	]
+	"Health_Per_Second" "0"
+	"Stamina_Per_Second" "3"
+}

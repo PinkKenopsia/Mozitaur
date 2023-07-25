@@ -1,0 +1,49 @@
+"Metadata"
+{
+	"GUID" "60b8e7b5fd9947b283085f1dfef4fc8f"
+	"Type" "SDG.Unturned.WeatherAsset, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+}
+"Asset"
+{
+	"Volume_Mask" "10"
+	"Fade_In_Duration" "20"
+	"Fade_Out_Duration" "20"
+	"Override_Fog" "true"
+	"Override_Atmospheric_Fog" "true"
+	"Shadow_Strength_Multiplier" "0.5"
+	"Ambient_Audio_Clip" "Sounds/Weather/BuakFog.ogg"
+	"Dawn"
+	{
+		"Fog_Color"
+		{
+			"Level_Enum" "SKY_SKY"
+		}
+		"Fog_Density" "0.7"
+	}
+	"Midday"
+	{
+		"Fog_Color"
+		{
+			"Level_Enum" "SKY_SKY"
+		}
+		"Fog_Density" "0.7"
+	}
+	"Dusk"
+	{
+		"Fog_Color"
+		{
+			"Level_Enum" "SKY_SKY"
+		}
+		"Fog_Density" "0.7"
+	}
+	"Midnight"
+	{
+		"Fog_Color"
+		{
+			"Level_Enum" "SKY_SKY"
+		}
+		"Fog_Density" "0.7"
+	}
+	"Health_Per_Second" "0"
+	"Stamina_Per_Second" "2"
+}

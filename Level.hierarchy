@@ -1,0 +1,3739 @@
+"Available_Instance_ID" "61"
+"Items"
+[
+	{
+		"Type" "SDG.Framework.Landscapes.Landscape, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+		"Instance_ID" "39"
+		"Item"
+		{
+			"Tiles"
+			[
+				{
+					"Coord"
+					{
+						"X" "-5"
+						"Y" "-5"
+					}
+					"Materials"
+					[
+						{
+							"GUID" "e1926805d36f44c98f914c861243384e"
+						}
+						{
+							"GUID" "a991caf69a0845dd9132a46be1a42bff"
+						}
+						{
+							"GUID" "41a73f73b147483f86b793071620b451"
+						}
+						{
+							"GUID" "d405944a90af4db7beead50b2fc0f115"
+						}
+						{
+							"GUID" "e1926805d36f44c98f914c861243384e"
+						}
+						{
+							"GUID" "1d0cf6e7c3e54ade9693905eeb47332e"
+						}
+						{
+							"GUID" "7266717de98b446eaccfe45b84367d43"
+						}
+						{
+							"GUID" "e54a3da2c46e4927848fed4cdead560a"
+						}
+					]
+				}
+				{
+					"Coord"
+					{
+						"X" "-5"
+						"Y" "-4"
+					}
+					"Materials"
+					[
+						{
+							"GUID" "e1926805d36f44c98f914c861243384e"
+						}
+						{
+							"GUID" "a991caf69a0845dd9132a46be1a42bff"
+						}
+						{
+							"GUID" "41a73f73b147483f86b793071620b451"
+						}
+						{
+							"GUID" "d405944a90af4db7beead50b2fc0f115"
+						}
+						{
+							"GUID" "e1926805d36f44c98f914c861243384e"
+						}
+						{
+							"GUID" "1d0cf6e7c3e54ade9693905eeb47332e"
+						}
+						{
+							"GUID" "7266717de98b446eaccfe45b84367d43"
+						}
+						{
+							"GUID" "e54a3da2c46e4927848fed4cdead560a"
+						}
+					]
+				}
+				{
+					"Coord"
+					{
+						"X" "-5"
+						"Y" "-3"
+					}
+					"Materials"
+					[
+						{
+							"GUID" "e1926805d36f44c98f914c861243384e"
+						}
+						{
+							"GUID" "a991caf69a0845dd9132a46be1a42bff"
+						}
+						{
+							"GUID" "41a73f73b147483f86b793071620b451"
+						}
+						{
+							"GUID" "d405944a90af4db7beead50b2fc0f115"
+						}
+						{
+							"GUID" "e1926805d36f44c98f914c861243384e"
+						}
+						{
+							"GUID" "1d0cf6e7c3e54ade9693905eeb47332e"
+						}
+						{
+							"GUID" "7266717de98b446eaccfe45b84367d43"
+						}
+						{
+							"GUID" "e54a3da2c46e4927848fed4cdead560a"
+						}
+					]
+				}
+				{
+					"Coord"
+					{
+						"X" "-5"
+						"Y" "-2"
+					}
+					"Materials"
+					[
+						{
+							"GUID" "e1926805d36f44c98f914c861243384e"
+						}
+						{
+							"GUID" "a991caf69a0845dd9132a46be1a42bff"
+						}
+						{
+							"GUID" "41a73f73b147483f86b793071620b451"
+						}
+						{
+							"GUID" "d405944a90af4db7beead50b2fc0f115"
+						}
+						{
+							"GUID" "e1926805d36f44c98f914c861243384e"
+						}
+						{
+							"GUID" "1d0cf6e7c3e54ade9693905eeb47332e"
+						}
+						{
+							"GUID" "7266717de98b446eaccfe45b84367d43"
+						}
+						{
+							"GUID" "e54a3da2c46e4927848fed4cdead560a"
+						}
+					]
+				}
+				{
+					"Coord"
+					{
+						"X" "-5"
+						"Y" "-1"
+					}
+					"Materials"
+					[
+						{
+							"GUID" "e1926805d36f44c98f914c861243384e"
+						}
+						{
+							"GUID" "a991caf69a0845dd9132a46be1a42bff"
+						}
+						{
+							"GUID" "41a73f73b147483f86b793071620b451"
+						}
+						{
+							"GUID" "d405944a90af4db7beead50b2fc0f115"
+						}
+						{
+							"GUID" "e1926805d36f44c98f914c861243384e"
+						}
+						{
+							"GUID" "1d0cf6e7c3e54ade9693905eeb47332e"
+						}
+						{
+							"GUID" "7266717de98b446eaccfe45b84367d43"
+						}
+						{
+							"GUID" "e54a3da2c46e4927848fed4cdead560a"
+						}
+					]
+				}
+				{
+					"Coord"
+					{
+						"X" "-5"
+						"Y" "0"
+					}
+					"Materials"
+					[
+						{
+							"GUID" "e1926805d36f44c98f914c861243384e"
+						}
+						{
+							"GUID" "a991caf69a0845dd9132a46be1a42bff"
+						}
+						{
+							"GUID" "41a73f73b147483f86b793071620b451"
+						}
+						{
+							"GUID" "d405944a90af4db7beead50b2fc0f115"
+						}
+						{
+							"GUID" "e1926805d36f44c98f914c861243384e"
+						}
+						{
+							"GUID" "1d0cf6e7c3e54ade9693905eeb47332e"
+						}
+						{
+							"GUID" "7266717de98b446eaccfe45b84367d43"
+						}
+						{
+							"GUID" "e54a3da2c46e4927848fed4cdead560a"
+						}
+					]
+				}
+				{
+					"Coord"
+					{
+						"X" "-5"
+						"Y" "1"
+					}
+					"Materials"
+					[
+						{
+							"GUID" "e1926805d36f44c98f914c861243384e"
+						}
+						{
+							"GUID" "a991caf69a0845dd9132a46be1a42bff"
+						}
+						{
+							"GUID" "41a73f73b147483f86b793071620b451"
+						}
+						{
+							"GUID" "d405944a90af4db7beead50b2fc0f115"
+						}
+						{
+							"GUID" "e1926805d36f44c98f914c861243384e"
+						}
+						{
+							"GUID" "1d0cf6e7c3e54ade9693905eeb47332e"
+						}
+						{
+							"GUID" "7266717de98b446eaccfe45b84367d43"
+						}
+						{
+							"GUID" "e54a3da2c46e4927848fed4cdead560a"
+						}
+					]
+				}
+				{
+					"Coord"
+					{
+						"X" "-5"
+						"Y" "2"
+					}
+					"Materials"
+					[
+						{
+							"GUID" "e1926805d36f44c98f914c861243384e"
+						}
+						{
+							"GUID" "a991caf69a0845dd9132a46be1a42bff"
+						}
+						{
+							"GUID" "41a73f73b147483f86b793071620b451"
+						}
+						{
+							"GUID" "d405944a90af4db7beead50b2fc0f115"
+						}
+						{
+							"GUID" "e1926805d36f44c98f914c861243384e"
+						}
+						{
+							"GUID" "1d0cf6e7c3e54ade9693905eeb47332e"
+						}
+						{
+							"GUID" "7266717de98b446eaccfe45b84367d43"
+						}
+						{
+							"GUID" "e54a3da2c46e4927848fed4cdead560a"
+						}
+					]
+				}
+				{
+					"Coord"
+					{
+						"X" "-5"
+						"Y" "3"
+					}
+					"Materials"
+					[
+						{
+							"GUID" "e1926805d36f44c98f914c861243384e"
+						}
+						{
+							"GUID" "a991caf69a0845dd9132a46be1a42bff"
+						}
+						{
+							"GUID" "41a73f73b147483f86b793071620b451"
+						}
+						{
+							"GUID" "d405944a90af4db7beead50b2fc0f115"
+						}
+						{
+							"GUID" "e1926805d36f44c98f914c861243384e"
+						}
+						{
+							"GUID" "1d0cf6e7c3e54ade9693905eeb47332e"
+						}
+						{
+							"GUID" "7266717de98b446eaccfe45b84367d43"
+						}
+						{
+							"GUID" "e54a3da2c46e4927848fed4cdead560a"
+						}
+					]
+				}
+				{
+					"Coord"
+					{
+						"X" "-5"
+						"Y" "4"
+					}
+					"Materials"
+					[
+						{
+							"GUID" "e1926805d36f44c98f914c861243384e"
+						}
+						{
+							"GUID" "a991caf69a0845dd9132a46be1a42bff"
+						}
+						{
+							"GUID" "41a73f73b147483f86b793071620b451"
+						}
+						{
+							"GUID" "d405944a90af4db7beead50b2fc0f115"
+						}
+						{
+							"GUID" "e1926805d36f44c98f914c861243384e"
+						}
+						{
+							"GUID" "1d0cf6e7c3e54ade9693905eeb47332e"
+						}
+						{
+							"GUID" "7266717de98b446eaccfe45b84367d43"
+						}
+						{
+							"GUID" "e54a3da2c46e4927848fed4cdead560a"
+						}
+					]
+				}
+				{
+					"Coord"
+					{
+						"X" "-4"
+						"Y" "-5"
+					}
+					"Materials"
+					[
+						{
+							"GUID" "e1926805d36f44c98f914c861243384e"
+						}
+						{
+							"GUID" "a991caf69a0845dd9132a46be1a42bff"
+						}
+						{
+							"GUID" "41a73f73b147483f86b793071620b451"
+						}
+						{
+							"GUID" "d405944a90af4db7beead50b2fc0f115"
+						}
+						{
+							"GUID" "e1926805d36f44c98f914c861243384e"
+						}
+						{
+							"GUID" "1d0cf6e7c3e54ade9693905eeb47332e"
+						}
+						{
+							"GUID" "7266717de98b446eaccfe45b84367d43"
+						}
+						{
+							"GUID" "e54a3da2c46e4927848fed4cdead560a"
+						}
+					]
+				}
+				{
+					"Coord"
+					{
+						"X" "-4"
+						"Y" "-4"
+					}
+					"Materials"
+					[
+						{
+							"GUID" "e1926805d36f44c98f914c861243384e"
+						}
+						{
+							"GUID" "a991caf69a0845dd9132a46be1a42bff"
+						}
+						{
+							"GUID" "41a73f73b147483f86b793071620b451"
+						}
+						{
+							"GUID" "d405944a90af4db7beead50b2fc0f115"
+						}
+						{
+							"GUID" "e1926805d36f44c98f914c861243384e"
+						}
+						{
+							"GUID" "1d0cf6e7c3e54ade9693905eeb47332e"
+						}
+						{
+							"GUID" "7266717de98b446eaccfe45b84367d43"
+						}
+						{
+							"GUID" "e54a3da2c46e4927848fed4cdead560a"
+						}
+					]
+				}
+				{
+					"Coord"
+					{
+						"X" "-4"
+						"Y" "-3"
+					}
+					"Materials"
+					[
+						{
+							"GUID" "e1926805d36f44c98f914c861243384e"
+						}
+						{
+							"GUID" "a991caf69a0845dd9132a46be1a42bff"
+						}
+						{
+							"GUID" "41a73f73b147483f86b793071620b451"
+						}
+						{
+							"GUID" "d405944a90af4db7beead50b2fc0f115"
+						}
+						{
+							"GUID" "e1926805d36f44c98f914c861243384e"
+						}
+						{
+							"GUID" "1d0cf6e7c3e54ade9693905eeb47332e"
+						}
+						{
+							"GUID" "7266717de98b446eaccfe45b84367d43"
+						}
+						{
+							"GUID" "e54a3da2c46e4927848fed4cdead560a"
+						}
+					]
+				}
+				{
+					"Coord"
+					{
+						"X" "-4"
+						"Y" "-2"
+					}
+					"Materials"
+					[
+						{
+							"GUID" "e1926805d36f44c98f914c861243384e"
+						}
+						{
+							"GUID" "a991caf69a0845dd9132a46be1a42bff"
+						}
+						{
+							"GUID" "41a73f73b147483f86b793071620b451"
+						}
+						{
+							"GUID" "d405944a90af4db7beead50b2fc0f115"
+						}
+						{
+							"GUID" "e1926805d36f44c98f914c861243384e"
+						}
+						{
+							"GUID" "1d0cf6e7c3e54ade9693905eeb47332e"
+						}
+						{
+							"GUID" "7266717de98b446eaccfe45b84367d43"
+						}
+						{
+							"GUID" "e54a3da2c46e4927848fed4cdead560a"
+						}
+					]
+				}
+				{
+					"Coord"
+					{
+						"X" "-4"
+						"Y" "-1"
+					}
+					"Materials"
+					[
+						{
+							"GUID" "e1926805d36f44c98f914c861243384e"
+						}
+						{
+							"GUID" "a991caf69a0845dd9132a46be1a42bff"
+						}
+						{
+							"GUID" "41a73f73b147483f86b793071620b451"
+						}
+						{
+							"GUID" "d405944a90af4db7beead50b2fc0f115"
+						}
+						{
+							"GUID" "e1926805d36f44c98f914c861243384e"
+						}
+						{
+							"GUID" "1d0cf6e7c3e54ade9693905eeb47332e"
+						}
+						{
+							"GUID" "7266717de98b446eaccfe45b84367d43"
+						}
+						{
+							"GUID" "e54a3da2c46e4927848fed4cdead560a"
+						}
+					]
+				}
+				{
+					"Coord"
+					{
+						"X" "-4"
+						"Y" "0"
+					}
+					"Materials"
+					[
+						{
+							"GUID" "e1926805d36f44c98f914c861243384e"
+						}
+						{
+							"GUID" "a991caf69a0845dd9132a46be1a42bff"
+						}
+						{
+							"GUID" "41a73f73b147483f86b793071620b451"
+						}
+						{
+							"GUID" "d405944a90af4db7beead50b2fc0f115"
+						}
+						{
+							"GUID" "e1926805d36f44c98f914c861243384e"
+						}
+						{
+							"GUID" "1d0cf6e7c3e54ade9693905eeb47332e"
+						}
+						{
+							"GUID" "7266717de98b446eaccfe45b84367d43"
+						}
+						{
+							"GUID" "e54a3da2c46e4927848fed4cdead560a"
+						}
+					]
+				}
+				{
+					"Coord"
+					{
+						"X" "-4"
+						"Y" "1"
+					}
+					"Materials"
+					[
+						{
+							"GUID" "e1926805d36f44c98f914c861243384e"
+						}
+						{
+							"GUID" "a991caf69a0845dd9132a46be1a42bff"
+						}
+						{
+							"GUID" "41a73f73b147483f86b793071620b451"
+						}
+						{
+							"GUID" "d405944a90af4db7beead50b2fc0f115"
+						}
+						{
+							"GUID" "e1926805d36f44c98f914c861243384e"
+						}
+						{
+							"GUID" "1d0cf6e7c3e54ade9693905eeb47332e"
+						}
+						{
+							"GUID" "7266717de98b446eaccfe45b84367d43"
+						}
+						{
+							"GUID" "e54a3da2c46e4927848fed4cdead560a"
+						}
+					]
+				}
+				{
+					"Coord"
+					{
+						"X" "-4"
+						"Y" "2"
+					}
+					"Materials"
+					[
+						{
+							"GUID" "e1926805d36f44c98f914c861243384e"
+						}
+						{
+							"GUID" "a991caf69a0845dd9132a46be1a42bff"
+						}
+						{
+							"GUID" "41a73f73b147483f86b793071620b451"
+						}
+						{
+							"GUID" "d405944a90af4db7beead50b2fc0f115"
+						}
+						{
+							"GUID" "e1926805d36f44c98f914c861243384e"
+						}
+						{
+							"GUID" "1d0cf6e7c3e54ade9693905eeb47332e"
+						}
+						{
+							"GUID" "7266717de98b446eaccfe45b84367d43"
+						}
+						{
+							"GUID" "e54a3da2c46e4927848fed4cdead560a"
+						}
+					]
+				}
+				{
+					"Coord"
+					{
+						"X" "-4"
+						"Y" "3"
+					}
+					"Materials"
+					[
+						{
+							"GUID" "e1926805d36f44c98f914c861243384e"
+						}
+						{
+							"GUID" "a991caf69a0845dd9132a46be1a42bff"
+						}
+						{
+							"GUID" "41a73f73b147483f86b793071620b451"
+						}
+						{
+							"GUID" "d405944a90af4db7beead50b2fc0f115"
+						}
+						{
+							"GUID" "e1926805d36f44c98f914c861243384e"
+						}
+						{
+							"GUID" "1d0cf6e7c3e54ade9693905eeb47332e"
+						}
+						{
+							"GUID" "7266717de98b446eaccfe45b84367d43"
+						}
+						{
+							"GUID" "e54a3da2c46e4927848fed4cdead560a"
+						}
+					]
+				}
+				{
+					"Coord"
+					{
+						"X" "-4"
+						"Y" "4"
+					}
+					"Materials"
+					[
+						{
+							"GUID" "e1926805d36f44c98f914c861243384e"
+						}
+						{
+							"GUID" "a991caf69a0845dd9132a46be1a42bff"
+						}
+						{
+							"GUID" "41a73f73b147483f86b793071620b451"
+						}
+						{
+							"GUID" "d405944a90af4db7beead50b2fc0f115"
+						}
+						{
+							"GUID" "e1926805d36f44c98f914c861243384e"
+						}
+						{
+							"GUID" "1d0cf6e7c3e54ade9693905eeb47332e"
+						}
+						{
+							"GUID" "7266717de98b446eaccfe45b84367d43"
+						}
+						{
+							"GUID" "e54a3da2c46e4927848fed4cdead560a"
+						}
+					]
+				}
+				{
+					"Coord"
+					{
+						"X" "-3"
+						"Y" "-5"
+					}
+					"Materials"
+					[
+						{
+							"GUID" "e1926805d36f44c98f914c861243384e"
+						}
+						{
+							"GUID" "a991caf69a0845dd9132a46be1a42bff"
+						}
+						{
+							"GUID" "41a73f73b147483f86b793071620b451"
+						}
+						{
+							"GUID" "d405944a90af4db7beead50b2fc0f115"
+						}
+						{
+							"GUID" "e1926805d36f44c98f914c861243384e"
+						}
+						{
+							"GUID" "1d0cf6e7c3e54ade9693905eeb47332e"
+						}
+						{
+							"GUID" "7266717de98b446eaccfe45b84367d43"
+						}
+						{
+							"GUID" "e54a3da2c46e4927848fed4cdead560a"
+						}
+					]
+				}
+				{
+					"Coord"
+					{
+						"X" "-3"
+						"Y" "-4"
+					}
+					"Materials"
+					[
+						{
+							"GUID" "e1926805d36f44c98f914c861243384e"
+						}
+						{
+							"GUID" "a991caf69a0845dd9132a46be1a42bff"
+						}
+						{
+							"GUID" "41a73f73b147483f86b793071620b451"
+						}
+						{
+							"GUID" "d405944a90af4db7beead50b2fc0f115"
+						}
+						{
+							"GUID" "e1926805d36f44c98f914c861243384e"
+						}
+						{
+							"GUID" "1d0cf6e7c3e54ade9693905eeb47332e"
+						}
+						{
+							"GUID" "7266717de98b446eaccfe45b84367d43"
+						}
+						{
+							"GUID" "e54a3da2c46e4927848fed4cdead560a"
+						}
+					]
+				}
+				{
+					"Coord"
+					{
+						"X" "-3"
+						"Y" "-3"
+					}
+					"Materials"
+					[
+						{
+							"GUID" "e1926805d36f44c98f914c861243384e"
+						}
+						{
+							"GUID" "a991caf69a0845dd9132a46be1a42bff"
+						}
+						{
+							"GUID" "41a73f73b147483f86b793071620b451"
+						}
+						{
+							"GUID" "d405944a90af4db7beead50b2fc0f115"
+						}
+						{
+							"GUID" "e1926805d36f44c98f914c861243384e"
+						}
+						{
+							"GUID" "1d0cf6e7c3e54ade9693905eeb47332e"
+						}
+						{
+							"GUID" "7266717de98b446eaccfe45b84367d43"
+						}
+						{
+							"GUID" "e54a3da2c46e4927848fed4cdead560a"
+						}
+					]
+				}
+				{
+					"Coord"
+					{
+						"X" "-3"
+						"Y" "-2"
+					}
+					"Materials"
+					[
+						{
+							"GUID" "e1926805d36f44c98f914c861243384e"
+						}
+						{
+							"GUID" "a991caf69a0845dd9132a46be1a42bff"
+						}
+						{
+							"GUID" "41a73f73b147483f86b793071620b451"
+						}
+						{
+							"GUID" "d405944a90af4db7beead50b2fc0f115"
+						}
+						{
+							"GUID" "e1926805d36f44c98f914c861243384e"
+						}
+						{
+							"GUID" "1d0cf6e7c3e54ade9693905eeb47332e"
+						}
+						{
+							"GUID" "7266717de98b446eaccfe45b84367d43"
+						}
+						{
+							"GUID" "e54a3da2c46e4927848fed4cdead560a"
+						}
+					]
+				}
+				{
+					"Coord"
+					{
+						"X" "-3"
+						"Y" "-1"
+					}
+					"Materials"
+					[
+						{
+							"GUID" "e1926805d36f44c98f914c861243384e"
+						}
+						{
+							"GUID" "a991caf69a0845dd9132a46be1a42bff"
+						}
+						{
+							"GUID" "41a73f73b147483f86b793071620b451"
+						}
+						{
+							"GUID" "d405944a90af4db7beead50b2fc0f115"
+						}
+						{
+							"GUID" "e1926805d36f44c98f914c861243384e"
+						}
+						{
+							"GUID" "1d0cf6e7c3e54ade9693905eeb47332e"
+						}
+						{
+							"GUID" "7266717de98b446eaccfe45b84367d43"
+						}
+						{
+							"GUID" "e54a3da2c46e4927848fed4cdead560a"
+						}
+					]
+				}
+				{
+					"Coord"
+					{
+						"X" "-3"
+						"Y" "0"
+					}
+					"Materials"
+					[
+						{
+							"GUID" "e1926805d36f44c98f914c861243384e"
+						}
+						{
+							"GUID" "a991caf69a0845dd9132a46be1a42bff"
+						}
+						{
+							"GUID" "41a73f73b147483f86b793071620b451"
+						}
+						{
+							"GUID" "d405944a90af4db7beead50b2fc0f115"
+						}
+						{
+							"GUID" "e1926805d36f44c98f914c861243384e"
+						}
+						{
+							"GUID" "1d0cf6e7c3e54ade9693905eeb47332e"
+						}
+						{
+							"GUID" "7266717de98b446eaccfe45b84367d43"
+						}
+						{
+							"GUID" "e54a3da2c46e4927848fed4cdead560a"
+						}
+					]
+				}
+				{
+					"Coord"
+					{
+						"X" "-3"
+						"Y" "1"
+					}
+					"Materials"
+					[
+						{
+							"GUID" "e1926805d36f44c98f914c861243384e"
+						}
+						{
+							"GUID" "a991caf69a0845dd9132a46be1a42bff"
+						}
+						{
+							"GUID" "41a73f73b147483f86b793071620b451"
+						}
+						{
+							"GUID" "d405944a90af4db7beead50b2fc0f115"
+						}
+						{
+							"GUID" "e1926805d36f44c98f914c861243384e"
+						}
+						{
+							"GUID" "1d0cf6e7c3e54ade9693905eeb47332e"
+						}
+						{
+							"GUID" "7266717de98b446eaccfe45b84367d43"
+						}
+						{
+							"GUID" "e54a3da2c46e4927848fed4cdead560a"
+						}
+					]
+				}
+				{
+					"Coord"
+					{
+						"X" "-3"
+						"Y" "2"
+					}
+					"Materials"
+					[
+						{
+							"GUID" "e1926805d36f44c98f914c861243384e"
+						}
+						{
+							"GUID" "a991caf69a0845dd9132a46be1a42bff"
+						}
+						{
+							"GUID" "41a73f73b147483f86b793071620b451"
+						}
+						{
+							"GUID" "d405944a90af4db7beead50b2fc0f115"
+						}
+						{
+							"GUID" "e1926805d36f44c98f914c861243384e"
+						}
+						{
+							"GUID" "1d0cf6e7c3e54ade9693905eeb47332e"
+						}
+						{
+							"GUID" "7266717de98b446eaccfe45b84367d43"
+						}
+						{
+							"GUID" "e54a3da2c46e4927848fed4cdead560a"
+						}
+					]
+				}
+				{
+					"Coord"
+					{
+						"X" "-3"
+						"Y" "3"
+					}
+					"Materials"
+					[
+						{
+							"GUID" "e1926805d36f44c98f914c861243384e"
+						}
+						{
+							"GUID" "a991caf69a0845dd9132a46be1a42bff"
+						}
+						{
+							"GUID" "41a73f73b147483f86b793071620b451"
+						}
+						{
+							"GUID" "d405944a90af4db7beead50b2fc0f115"
+						}
+						{
+							"GUID" "e1926805d36f44c98f914c861243384e"
+						}
+						{
+							"GUID" "1d0cf6e7c3e54ade9693905eeb47332e"
+						}
+						{
+							"GUID" "7266717de98b446eaccfe45b84367d43"
+						}
+						{
+							"GUID" "e54a3da2c46e4927848fed4cdead560a"
+						}
+					]
+				}
+				{
+					"Coord"
+					{
+						"X" "-3"
+						"Y" "4"
+					}
+					"Materials"
+					[
+						{
+							"GUID" "e1926805d36f44c98f914c861243384e"
+						}
+						{
+							"GUID" "a991caf69a0845dd9132a46be1a42bff"
+						}
+						{
+							"GUID" "41a73f73b147483f86b793071620b451"
+						}
+						{
+							"GUID" "d405944a90af4db7beead50b2fc0f115"
+						}
+						{
+							"GUID" "e1926805d36f44c98f914c861243384e"
+						}
+						{
+							"GUID" "1d0cf6e7c3e54ade9693905eeb47332e"
+						}
+						{
+							"GUID" "7266717de98b446eaccfe45b84367d43"
+						}
+						{
+							"GUID" "e54a3da2c46e4927848fed4cdead560a"
+						}
+					]
+				}
+				{
+					"Coord"
+					{
+						"X" "-2"
+						"Y" "-5"
+					}
+					"Materials"
+					[
+						{
+							"GUID" "e1926805d36f44c98f914c861243384e"
+						}
+						{
+							"GUID" "a991caf69a0845dd9132a46be1a42bff"
+						}
+						{
+							"GUID" "41a73f73b147483f86b793071620b451"
+						}
+						{
+							"GUID" "d405944a90af4db7beead50b2fc0f115"
+						}
+						{
+							"GUID" "e1926805d36f44c98f914c861243384e"
+						}
+						{
+							"GUID" "1d0cf6e7c3e54ade9693905eeb47332e"
+						}
+						{
+							"GUID" "7266717de98b446eaccfe45b84367d43"
+						}
+						{
+							"GUID" "e54a3da2c46e4927848fed4cdead560a"
+						}
+					]
+				}
+				{
+					"Coord"
+					{
+						"X" "-2"
+						"Y" "-4"
+					}
+					"Materials"
+					[
+						{
+							"GUID" "e1926805d36f44c98f914c861243384e"
+						}
+						{
+							"GUID" "a991caf69a0845dd9132a46be1a42bff"
+						}
+						{
+							"GUID" "41a73f73b147483f86b793071620b451"
+						}
+						{
+							"GUID" "d405944a90af4db7beead50b2fc0f115"
+						}
+						{
+							"GUID" "e1926805d36f44c98f914c861243384e"
+						}
+						{
+							"GUID" "1d0cf6e7c3e54ade9693905eeb47332e"
+						}
+						{
+							"GUID" "7266717de98b446eaccfe45b84367d43"
+						}
+						{
+							"GUID" "e54a3da2c46e4927848fed4cdead560a"
+						}
+					]
+				}
+				{
+					"Coord"
+					{
+						"X" "-2"
+						"Y" "-3"
+					}
+					"Materials"
+					[
+						{
+							"GUID" "e1926805d36f44c98f914c861243384e"
+						}
+						{
+							"GUID" "a991caf69a0845dd9132a46be1a42bff"
+						}
+						{
+							"GUID" "41a73f73b147483f86b793071620b451"
+						}
+						{
+							"GUID" "d405944a90af4db7beead50b2fc0f115"
+						}
+						{
+							"GUID" "e1926805d36f44c98f914c861243384e"
+						}
+						{
+							"GUID" "1d0cf6e7c3e54ade9693905eeb47332e"
+						}
+						{
+							"GUID" "7266717de98b446eaccfe45b84367d43"
+						}
+						{
+							"GUID" "e54a3da2c46e4927848fed4cdead560a"
+						}
+					]
+				}
+				{
+					"Coord"
+					{
+						"X" "-2"
+						"Y" "-2"
+					}
+					"Materials"
+					[
+						{
+							"GUID" "e1926805d36f44c98f914c861243384e"
+						}
+						{
+							"GUID" "a991caf69a0845dd9132a46be1a42bff"
+						}
+						{
+							"GUID" "41a73f73b147483f86b793071620b451"
+						}
+						{
+							"GUID" "d405944a90af4db7beead50b2fc0f115"
+						}
+						{
+							"GUID" "e1926805d36f44c98f914c861243384e"
+						}
+						{
+							"GUID" "1d0cf6e7c3e54ade9693905eeb47332e"
+						}
+						{
+							"GUID" "7266717de98b446eaccfe45b84367d43"
+						}
+						{
+							"GUID" "e54a3da2c46e4927848fed4cdead560a"
+						}
+					]
+				}
+				{
+					"Coord"
+					{
+						"X" "-2"
+						"Y" "-1"
+					}
+					"Materials"
+					[
+						{
+							"GUID" "e1926805d36f44c98f914c861243384e"
+						}
+						{
+							"GUID" "a991caf69a0845dd9132a46be1a42bff"
+						}
+						{
+							"GUID" "41a73f73b147483f86b793071620b451"
+						}
+						{
+							"GUID" "d405944a90af4db7beead50b2fc0f115"
+						}
+						{
+							"GUID" "e1926805d36f44c98f914c861243384e"
+						}
+						{
+							"GUID" "1d0cf6e7c3e54ade9693905eeb47332e"
+						}
+						{
+							"GUID" "7266717de98b446eaccfe45b84367d43"
+						}
+						{
+							"GUID" "e54a3da2c46e4927848fed4cdead560a"
+						}
+					]
+				}
+				{
+					"Coord"
+					{
+						"X" "-2"
+						"Y" "0"
+					}
+					"Materials"
+					[
+						{
+							"GUID" "e1926805d36f44c98f914c861243384e"
+						}
+						{
+							"GUID" "a991caf69a0845dd9132a46be1a42bff"
+						}
+						{
+							"GUID" "41a73f73b147483f86b793071620b451"
+						}
+						{
+							"GUID" "d405944a90af4db7beead50b2fc0f115"
+						}
+						{
+							"GUID" "e1926805d36f44c98f914c861243384e"
+						}
+						{
+							"GUID" "1d0cf6e7c3e54ade9693905eeb47332e"
+						}
+						{
+							"GUID" "7266717de98b446eaccfe45b84367d43"
+						}
+						{
+							"GUID" "e54a3da2c46e4927848fed4cdead560a"
+						}
+					]
+				}
+				{
+					"Coord"
+					{
+						"X" "-2"
+						"Y" "1"
+					}
+					"Materials"
+					[
+						{
+							"GUID" "e1926805d36f44c98f914c861243384e"
+						}
+						{
+							"GUID" "a991caf69a0845dd9132a46be1a42bff"
+						}
+						{
+							"GUID" "41a73f73b147483f86b793071620b451"
+						}
+						{
+							"GUID" "d405944a90af4db7beead50b2fc0f115"
+						}
+						{
+							"GUID" "e1926805d36f44c98f914c861243384e"
+						}
+						{
+							"GUID" "1d0cf6e7c3e54ade9693905eeb47332e"
+						}
+						{
+							"GUID" "7266717de98b446eaccfe45b84367d43"
+						}
+						{
+							"GUID" "e54a3da2c46e4927848fed4cdead560a"
+						}
+					]
+				}
+				{
+					"Coord"
+					{
+						"X" "-2"
+						"Y" "2"
+					}
+					"Materials"
+					[
+						{
+							"GUID" "e1926805d36f44c98f914c861243384e"
+						}
+						{
+							"GUID" "a991caf69a0845dd9132a46be1a42bff"
+						}
+						{
+							"GUID" "41a73f73b147483f86b793071620b451"
+						}
+						{
+							"GUID" "d405944a90af4db7beead50b2fc0f115"
+						}
+						{
+							"GUID" "e1926805d36f44c98f914c861243384e"
+						}
+						{
+							"GUID" "1d0cf6e7c3e54ade9693905eeb47332e"
+						}
+						{
+							"GUID" "7266717de98b446eaccfe45b84367d43"
+						}
+						{
+							"GUID" "e54a3da2c46e4927848fed4cdead560a"
+						}
+					]
+				}
+				{
+					"Coord"
+					{
+						"X" "-2"
+						"Y" "3"
+					}
+					"Materials"
+					[
+						{
+							"GUID" "e1926805d36f44c98f914c861243384e"
+						}
+						{
+							"GUID" "a991caf69a0845dd9132a46be1a42bff"
+						}
+						{
+							"GUID" "41a73f73b147483f86b793071620b451"
+						}
+						{
+							"GUID" "d405944a90af4db7beead50b2fc0f115"
+						}
+						{
+							"GUID" "e1926805d36f44c98f914c861243384e"
+						}
+						{
+							"GUID" "1d0cf6e7c3e54ade9693905eeb47332e"
+						}
+						{
+							"GUID" "7266717de98b446eaccfe45b84367d43"
+						}
+						{
+							"GUID" "e54a3da2c46e4927848fed4cdead560a"
+						}
+					]
+				}
+				{
+					"Coord"
+					{
+						"X" "-2"
+						"Y" "4"
+					}
+					"Materials"
+					[
+						{
+							"GUID" "e1926805d36f44c98f914c861243384e"
+						}
+						{
+							"GUID" "a991caf69a0845dd9132a46be1a42bff"
+						}
+						{
+							"GUID" "41a73f73b147483f86b793071620b451"
+						}
+						{
+							"GUID" "d405944a90af4db7beead50b2fc0f115"
+						}
+						{
+							"GUID" "e1926805d36f44c98f914c861243384e"
+						}
+						{
+							"GUID" "1d0cf6e7c3e54ade9693905eeb47332e"
+						}
+						{
+							"GUID" "7266717de98b446eaccfe45b84367d43"
+						}
+						{
+							"GUID" "e54a3da2c46e4927848fed4cdead560a"
+						}
+					]
+				}
+				{
+					"Coord"
+					{
+						"X" "-1"
+						"Y" "-5"
+					}
+					"Materials"
+					[
+						{
+							"GUID" "e1926805d36f44c98f914c861243384e"
+						}
+						{
+							"GUID" "a991caf69a0845dd9132a46be1a42bff"
+						}
+						{
+							"GUID" "41a73f73b147483f86b793071620b451"
+						}
+						{
+							"GUID" "d405944a90af4db7beead50b2fc0f115"
+						}
+						{
+							"GUID" "e1926805d36f44c98f914c861243384e"
+						}
+						{
+							"GUID" "1d0cf6e7c3e54ade9693905eeb47332e"
+						}
+						{
+							"GUID" "7266717de98b446eaccfe45b84367d43"
+						}
+						{
+							"GUID" "e54a3da2c46e4927848fed4cdead560a"
+						}
+					]
+				}
+				{
+					"Coord"
+					{
+						"X" "-1"
+						"Y" "-4"
+					}
+					"Materials"
+					[
+						{
+							"GUID" "e1926805d36f44c98f914c861243384e"
+						}
+						{
+							"GUID" "a991caf69a0845dd9132a46be1a42bff"
+						}
+						{
+							"GUID" "41a73f73b147483f86b793071620b451"
+						}
+						{
+							"GUID" "d405944a90af4db7beead50b2fc0f115"
+						}
+						{
+							"GUID" "e1926805d36f44c98f914c861243384e"
+						}
+						{
+							"GUID" "1d0cf6e7c3e54ade9693905eeb47332e"
+						}
+						{
+							"GUID" "7266717de98b446eaccfe45b84367d43"
+						}
+						{
+							"GUID" "e54a3da2c46e4927848fed4cdead560a"
+						}
+					]
+				}
+				{
+					"Coord"
+					{
+						"X" "-1"
+						"Y" "-3"
+					}
+					"Materials"
+					[
+						{
+							"GUID" "e1926805d36f44c98f914c861243384e"
+						}
+						{
+							"GUID" "a991caf69a0845dd9132a46be1a42bff"
+						}
+						{
+							"GUID" "41a73f73b147483f86b793071620b451"
+						}
+						{
+							"GUID" "d405944a90af4db7beead50b2fc0f115"
+						}
+						{
+							"GUID" "e1926805d36f44c98f914c861243384e"
+						}
+						{
+							"GUID" "1d0cf6e7c3e54ade9693905eeb47332e"
+						}
+						{
+							"GUID" "7266717de98b446eaccfe45b84367d43"
+						}
+						{
+							"GUID" "e54a3da2c46e4927848fed4cdead560a"
+						}
+					]
+				}
+				{
+					"Coord"
+					{
+						"X" "-1"
+						"Y" "-2"
+					}
+					"Materials"
+					[
+						{
+							"GUID" "e1926805d36f44c98f914c861243384e"
+						}
+						{
+							"GUID" "a991caf69a0845dd9132a46be1a42bff"
+						}
+						{
+							"GUID" "41a73f73b147483f86b793071620b451"
+						}
+						{
+							"GUID" "d405944a90af4db7beead50b2fc0f115"
+						}
+						{
+							"GUID" "e1926805d36f44c98f914c861243384e"
+						}
+						{
+							"GUID" "1d0cf6e7c3e54ade9693905eeb47332e"
+						}
+						{
+							"GUID" "7266717de98b446eaccfe45b84367d43"
+						}
+						{
+							"GUID" "e54a3da2c46e4927848fed4cdead560a"
+						}
+					]
+				}
+				{
+					"Coord"
+					{
+						"X" "-1"
+						"Y" "-1"
+					}
+					"Materials"
+					[
+						{
+							"GUID" "e1926805d36f44c98f914c861243384e"
+						}
+						{
+							"GUID" "a991caf69a0845dd9132a46be1a42bff"
+						}
+						{
+							"GUID" "41a73f73b147483f86b793071620b451"
+						}
+						{
+							"GUID" "d405944a90af4db7beead50b2fc0f115"
+						}
+						{
+							"GUID" "e1926805d36f44c98f914c861243384e"
+						}
+						{
+							"GUID" "1d0cf6e7c3e54ade9693905eeb47332e"
+						}
+						{
+							"GUID" "7266717de98b446eaccfe45b84367d43"
+						}
+						{
+							"GUID" "e54a3da2c46e4927848fed4cdead560a"
+						}
+					]
+				}
+				{
+					"Coord"
+					{
+						"X" "-1"
+						"Y" "0"
+					}
+					"Materials"
+					[
+						{
+							"GUID" "e1926805d36f44c98f914c861243384e"
+						}
+						{
+							"GUID" "a991caf69a0845dd9132a46be1a42bff"
+						}
+						{
+							"GUID" "41a73f73b147483f86b793071620b451"
+						}
+						{
+							"GUID" "d405944a90af4db7beead50b2fc0f115"
+						}
+						{
+							"GUID" "e1926805d36f44c98f914c861243384e"
+						}
+						{
+							"GUID" "1d0cf6e7c3e54ade9693905eeb47332e"
+						}
+						{
+							"GUID" "7266717de98b446eaccfe45b84367d43"
+						}
+						{
+							"GUID" "e54a3da2c46e4927848fed4cdead560a"
+						}
+					]
+				}
+				{
+					"Coord"
+					{
+						"X" "-1"
+						"Y" "1"
+					}
+					"Materials"
+					[
+						{
+							"GUID" "e1926805d36f44c98f914c861243384e"
+						}
+						{
+							"GUID" "a991caf69a0845dd9132a46be1a42bff"
+						}
+						{
+							"GUID" "41a73f73b147483f86b793071620b451"
+						}
+						{
+							"GUID" "d405944a90af4db7beead50b2fc0f115"
+						}
+						{
+							"GUID" "e1926805d36f44c98f914c861243384e"
+						}
+						{
+							"GUID" "1d0cf6e7c3e54ade9693905eeb47332e"
+						}
+						{
+							"GUID" "7266717de98b446eaccfe45b84367d43"
+						}
+						{
+							"GUID" "e54a3da2c46e4927848fed4cdead560a"
+						}
+					]
+				}
+				{
+					"Coord"
+					{
+						"X" "-1"
+						"Y" "2"
+					}
+					"Materials"
+					[
+						{
+							"GUID" "e1926805d36f44c98f914c861243384e"
+						}
+						{
+							"GUID" "a991caf69a0845dd9132a46be1a42bff"
+						}
+						{
+							"GUID" "41a73f73b147483f86b793071620b451"
+						}
+						{
+							"GUID" "d405944a90af4db7beead50b2fc0f115"
+						}
+						{
+							"GUID" "e1926805d36f44c98f914c861243384e"
+						}
+						{
+							"GUID" "1d0cf6e7c3e54ade9693905eeb47332e"
+						}
+						{
+							"GUID" "7266717de98b446eaccfe45b84367d43"
+						}
+						{
+							"GUID" "e54a3da2c46e4927848fed4cdead560a"
+						}
+					]
+				}
+				{
+					"Coord"
+					{
+						"X" "-1"
+						"Y" "3"
+					}
+					"Materials"
+					[
+						{
+							"GUID" "e1926805d36f44c98f914c861243384e"
+						}
+						{
+							"GUID" "a991caf69a0845dd9132a46be1a42bff"
+						}
+						{
+							"GUID" "41a73f73b147483f86b793071620b451"
+						}
+						{
+							"GUID" "d405944a90af4db7beead50b2fc0f115"
+						}
+						{
+							"GUID" "e1926805d36f44c98f914c861243384e"
+						}
+						{
+							"GUID" "1d0cf6e7c3e54ade9693905eeb47332e"
+						}
+						{
+							"GUID" "7266717de98b446eaccfe45b84367d43"
+						}
+						{
+							"GUID" "e54a3da2c46e4927848fed4cdead560a"
+						}
+					]
+				}
+				{
+					"Coord"
+					{
+						"X" "-1"
+						"Y" "4"
+					}
+					"Materials"
+					[
+						{
+							"GUID" "e1926805d36f44c98f914c861243384e"
+						}
+						{
+							"GUID" "a991caf69a0845dd9132a46be1a42bff"
+						}
+						{
+							"GUID" "41a73f73b147483f86b793071620b451"
+						}
+						{
+							"GUID" "d405944a90af4db7beead50b2fc0f115"
+						}
+						{
+							"GUID" "e1926805d36f44c98f914c861243384e"
+						}
+						{
+							"GUID" "1d0cf6e7c3e54ade9693905eeb47332e"
+						}
+						{
+							"GUID" "7266717de98b446eaccfe45b84367d43"
+						}
+						{
+							"GUID" "e54a3da2c46e4927848fed4cdead560a"
+						}
+					]
+				}
+				{
+					"Coord"
+					{
+						"X" "0"
+						"Y" "-5"
+					}
+					"Materials"
+					[
+						{
+							"GUID" "e1926805d36f44c98f914c861243384e"
+						}
+						{
+							"GUID" "a991caf69a0845dd9132a46be1a42bff"
+						}
+						{
+							"GUID" "41a73f73b147483f86b793071620b451"
+						}
+						{
+							"GUID" "d405944a90af4db7beead50b2fc0f115"
+						}
+						{
+							"GUID" "e1926805d36f44c98f914c861243384e"
+						}
+						{
+							"GUID" "1d0cf6e7c3e54ade9693905eeb47332e"
+						}
+						{
+							"GUID" "7266717de98b446eaccfe45b84367d43"
+						}
+						{
+							"GUID" "e54a3da2c46e4927848fed4cdead560a"
+						}
+					]
+				}
+				{
+					"Coord"
+					{
+						"X" "0"
+						"Y" "-4"
+					}
+					"Materials"
+					[
+						{
+							"GUID" "e1926805d36f44c98f914c861243384e"
+						}
+						{
+							"GUID" "a991caf69a0845dd9132a46be1a42bff"
+						}
+						{
+							"GUID" "41a73f73b147483f86b793071620b451"
+						}
+						{
+							"GUID" "d405944a90af4db7beead50b2fc0f115"
+						}
+						{
+							"GUID" "e1926805d36f44c98f914c861243384e"
+						}
+						{
+							"GUID" "1d0cf6e7c3e54ade9693905eeb47332e"
+						}
+						{
+							"GUID" "7266717de98b446eaccfe45b84367d43"
+						}
+						{
+							"GUID" "e54a3da2c46e4927848fed4cdead560a"
+						}
+					]
+				}
+				{
+					"Coord"
+					{
+						"X" "0"
+						"Y" "-3"
+					}
+					"Materials"
+					[
+						{
+							"GUID" "e1926805d36f44c98f914c861243384e"
+						}
+						{
+							"GUID" "a991caf69a0845dd9132a46be1a42bff"
+						}
+						{
+							"GUID" "41a73f73b147483f86b793071620b451"
+						}
+						{
+							"GUID" "d405944a90af4db7beead50b2fc0f115"
+						}
+						{
+							"GUID" "e1926805d36f44c98f914c861243384e"
+						}
+						{
+							"GUID" "1d0cf6e7c3e54ade9693905eeb47332e"
+						}
+						{
+							"GUID" "7266717de98b446eaccfe45b84367d43"
+						}
+						{
+							"GUID" "e54a3da2c46e4927848fed4cdead560a"
+						}
+					]
+				}
+				{
+					"Coord"
+					{
+						"X" "0"
+						"Y" "-2"
+					}
+					"Materials"
+					[
+						{
+							"GUID" "e1926805d36f44c98f914c861243384e"
+						}
+						{
+							"GUID" "a991caf69a0845dd9132a46be1a42bff"
+						}
+						{
+							"GUID" "41a73f73b147483f86b793071620b451"
+						}
+						{
+							"GUID" "d405944a90af4db7beead50b2fc0f115"
+						}
+						{
+							"GUID" "e1926805d36f44c98f914c861243384e"
+						}
+						{
+							"GUID" "1d0cf6e7c3e54ade9693905eeb47332e"
+						}
+						{
+							"GUID" "7266717de98b446eaccfe45b84367d43"
+						}
+						{
+							"GUID" "e54a3da2c46e4927848fed4cdead560a"
+						}
+					]
+				}
+				{
+					"Coord"
+					{
+						"X" "0"
+						"Y" "-1"
+					}
+					"Materials"
+					[
+						{
+							"GUID" "e1926805d36f44c98f914c861243384e"
+						}
+						{
+							"GUID" "a991caf69a0845dd9132a46be1a42bff"
+						}
+						{
+							"GUID" "41a73f73b147483f86b793071620b451"
+						}
+						{
+							"GUID" "d405944a90af4db7beead50b2fc0f115"
+						}
+						{
+							"GUID" "e1926805d36f44c98f914c861243384e"
+						}
+						{
+							"GUID" "1d0cf6e7c3e54ade9693905eeb47332e"
+						}
+						{
+							"GUID" "7266717de98b446eaccfe45b84367d43"
+						}
+						{
+							"GUID" "e54a3da2c46e4927848fed4cdead560a"
+						}
+					]
+				}
+				{
+					"Coord"
+					{
+						"X" "0"
+						"Y" "0"
+					}
+					"Materials"
+					[
+						{
+							"GUID" "e1926805d36f44c98f914c861243384e"
+						}
+						{
+							"GUID" "a991caf69a0845dd9132a46be1a42bff"
+						}
+						{
+							"GUID" "41a73f73b147483f86b793071620b451"
+						}
+						{
+							"GUID" "d405944a90af4db7beead50b2fc0f115"
+						}
+						{
+							"GUID" "e1926805d36f44c98f914c861243384e"
+						}
+						{
+							"GUID" "1d0cf6e7c3e54ade9693905eeb47332e"
+						}
+						{
+							"GUID" "7266717de98b446eaccfe45b84367d43"
+						}
+						{
+							"GUID" "e54a3da2c46e4927848fed4cdead560a"
+						}
+					]
+				}
+				{
+					"Coord"
+					{
+						"X" "0"
+						"Y" "1"
+					}
+					"Materials"
+					[
+						{
+							"GUID" "e1926805d36f44c98f914c861243384e"
+						}
+						{
+							"GUID" "a991caf69a0845dd9132a46be1a42bff"
+						}
+						{
+							"GUID" "41a73f73b147483f86b793071620b451"
+						}
+						{
+							"GUID" "d405944a90af4db7beead50b2fc0f115"
+						}
+						{
+							"GUID" "e1926805d36f44c98f914c861243384e"
+						}
+						{
+							"GUID" "1d0cf6e7c3e54ade9693905eeb47332e"
+						}
+						{
+							"GUID" "7266717de98b446eaccfe45b84367d43"
+						}
+						{
+							"GUID" "e54a3da2c46e4927848fed4cdead560a"
+						}
+					]
+				}
+				{
+					"Coord"
+					{
+						"X" "0"
+						"Y" "2"
+					}
+					"Materials"
+					[
+						{
+							"GUID" "e1926805d36f44c98f914c861243384e"
+						}
+						{
+							"GUID" "a991caf69a0845dd9132a46be1a42bff"
+						}
+						{
+							"GUID" "41a73f73b147483f86b793071620b451"
+						}
+						{
+							"GUID" "d405944a90af4db7beead50b2fc0f115"
+						}
+						{
+							"GUID" "e1926805d36f44c98f914c861243384e"
+						}
+						{
+							"GUID" "1d0cf6e7c3e54ade9693905eeb47332e"
+						}
+						{
+							"GUID" "7266717de98b446eaccfe45b84367d43"
+						}
+						{
+							"GUID" "e54a3da2c46e4927848fed4cdead560a"
+						}
+					]
+				}
+				{
+					"Coord"
+					{
+						"X" "0"
+						"Y" "3"
+					}
+					"Materials"
+					[
+						{
+							"GUID" "e1926805d36f44c98f914c861243384e"
+						}
+						{
+							"GUID" "a991caf69a0845dd9132a46be1a42bff"
+						}
+						{
+							"GUID" "41a73f73b147483f86b793071620b451"
+						}
+						{
+							"GUID" "d405944a90af4db7beead50b2fc0f115"
+						}
+						{
+							"GUID" "e1926805d36f44c98f914c861243384e"
+						}
+						{
+							"GUID" "1d0cf6e7c3e54ade9693905eeb47332e"
+						}
+						{
+							"GUID" "7266717de98b446eaccfe45b84367d43"
+						}
+						{
+							"GUID" "e54a3da2c46e4927848fed4cdead560a"
+						}
+					]
+				}
+				{
+					"Coord"
+					{
+						"X" "0"
+						"Y" "4"
+					}
+					"Materials"
+					[
+						{
+							"GUID" "e1926805d36f44c98f914c861243384e"
+						}
+						{
+							"GUID" "a991caf69a0845dd9132a46be1a42bff"
+						}
+						{
+							"GUID" "41a73f73b147483f86b793071620b451"
+						}
+						{
+							"GUID" "d405944a90af4db7beead50b2fc0f115"
+						}
+						{
+							"GUID" "e1926805d36f44c98f914c861243384e"
+						}
+						{
+							"GUID" "1d0cf6e7c3e54ade9693905eeb47332e"
+						}
+						{
+							"GUID" "7266717de98b446eaccfe45b84367d43"
+						}
+						{
+							"GUID" "e54a3da2c46e4927848fed4cdead560a"
+						}
+					]
+				}
+				{
+					"Coord"
+					{
+						"X" "1"
+						"Y" "-5"
+					}
+					"Materials"
+					[
+						{
+							"GUID" "e1926805d36f44c98f914c861243384e"
+						}
+						{
+							"GUID" "a991caf69a0845dd9132a46be1a42bff"
+						}
+						{
+							"GUID" "41a73f73b147483f86b793071620b451"
+						}
+						{
+							"GUID" "d405944a90af4db7beead50b2fc0f115"
+						}
+						{
+							"GUID" "e1926805d36f44c98f914c861243384e"
+						}
+						{
+							"GUID" "1d0cf6e7c3e54ade9693905eeb47332e"
+						}
+						{
+							"GUID" "7266717de98b446eaccfe45b84367d43"
+						}
+						{
+							"GUID" "e54a3da2c46e4927848fed4cdead560a"
+						}
+					]
+				}
+				{
+					"Coord"
+					{
+						"X" "1"
+						"Y" "-4"
+					}
+					"Materials"
+					[
+						{
+							"GUID" "e1926805d36f44c98f914c861243384e"
+						}
+						{
+							"GUID" "a991caf69a0845dd9132a46be1a42bff"
+						}
+						{
+							"GUID" "41a73f73b147483f86b793071620b451"
+						}
+						{
+							"GUID" "d405944a90af4db7beead50b2fc0f115"
+						}
+						{
+							"GUID" "e1926805d36f44c98f914c861243384e"
+						}
+						{
+							"GUID" "1d0cf6e7c3e54ade9693905eeb47332e"
+						}
+						{
+							"GUID" "7266717de98b446eaccfe45b84367d43"
+						}
+						{
+							"GUID" "e54a3da2c46e4927848fed4cdead560a"
+						}
+					]
+				}
+				{
+					"Coord"
+					{
+						"X" "1"
+						"Y" "-3"
+					}
+					"Materials"
+					[
+						{
+							"GUID" "e1926805d36f44c98f914c861243384e"
+						}
+						{
+							"GUID" "a991caf69a0845dd9132a46be1a42bff"
+						}
+						{
+							"GUID" "41a73f73b147483f86b793071620b451"
+						}
+						{
+							"GUID" "d405944a90af4db7beead50b2fc0f115"
+						}
+						{
+							"GUID" "e1926805d36f44c98f914c861243384e"
+						}
+						{
+							"GUID" "1d0cf6e7c3e54ade9693905eeb47332e"
+						}
+						{
+							"GUID" "7266717de98b446eaccfe45b84367d43"
+						}
+						{
+							"GUID" "e54a3da2c46e4927848fed4cdead560a"
+						}
+					]
+				}
+				{
+					"Coord"
+					{
+						"X" "1"
+						"Y" "-2"
+					}
+					"Materials"
+					[
+						{
+							"GUID" "e1926805d36f44c98f914c861243384e"
+						}
+						{
+							"GUID" "a991caf69a0845dd9132a46be1a42bff"
+						}
+						{
+							"GUID" "41a73f73b147483f86b793071620b451"
+						}
+						{
+							"GUID" "d405944a90af4db7beead50b2fc0f115"
+						}
+						{
+							"GUID" "e1926805d36f44c98f914c861243384e"
+						}
+						{
+							"GUID" "1d0cf6e7c3e54ade9693905eeb47332e"
+						}
+						{
+							"GUID" "7266717de98b446eaccfe45b84367d43"
+						}
+						{
+							"GUID" "e54a3da2c46e4927848fed4cdead560a"
+						}
+					]
+				}
+				{
+					"Coord"
+					{
+						"X" "1"
+						"Y" "-1"
+					}
+					"Materials"
+					[
+						{
+							"GUID" "e1926805d36f44c98f914c861243384e"
+						}
+						{
+							"GUID" "a991caf69a0845dd9132a46be1a42bff"
+						}
+						{
+							"GUID" "41a73f73b147483f86b793071620b451"
+						}
+						{
+							"GUID" "d405944a90af4db7beead50b2fc0f115"
+						}
+						{
+							"GUID" "e1926805d36f44c98f914c861243384e"
+						}
+						{
+							"GUID" "1d0cf6e7c3e54ade9693905eeb47332e"
+						}
+						{
+							"GUID" "7266717de98b446eaccfe45b84367d43"
+						}
+						{
+							"GUID" "8ea9b170d93e4f9a8a0e0c61cd4bee6a"
+						}
+					]
+				}
+				{
+					"Coord"
+					{
+						"X" "1"
+						"Y" "0"
+					}
+					"Materials"
+					[
+						{
+							"GUID" "e1926805d36f44c98f914c861243384e"
+						}
+						{
+							"GUID" "a991caf69a0845dd9132a46be1a42bff"
+						}
+						{
+							"GUID" "41a73f73b147483f86b793071620b451"
+						}
+						{
+							"GUID" "d405944a90af4db7beead50b2fc0f115"
+						}
+						{
+							"GUID" "e1926805d36f44c98f914c861243384e"
+						}
+						{
+							"GUID" "1d0cf6e7c3e54ade9693905eeb47332e"
+						}
+						{
+							"GUID" "7266717de98b446eaccfe45b84367d43"
+						}
+						{
+							"GUID" "e54a3da2c46e4927848fed4cdead560a"
+						}
+					]
+				}
+				{
+					"Coord"
+					{
+						"X" "1"
+						"Y" "1"
+					}
+					"Materials"
+					[
+						{
+							"GUID" "e1926805d36f44c98f914c861243384e"
+						}
+						{
+							"GUID" "a991caf69a0845dd9132a46be1a42bff"
+						}
+						{
+							"GUID" "41a73f73b147483f86b793071620b451"
+						}
+						{
+							"GUID" "d405944a90af4db7beead50b2fc0f115"
+						}
+						{
+							"GUID" "e1926805d36f44c98f914c861243384e"
+						}
+						{
+							"GUID" "1d0cf6e7c3e54ade9693905eeb47332e"
+						}
+						{
+							"GUID" "7266717de98b446eaccfe45b84367d43"
+						}
+						{
+							"GUID" "e54a3da2c46e4927848fed4cdead560a"
+						}
+					]
+				}
+				{
+					"Coord"
+					{
+						"X" "1"
+						"Y" "2"
+					}
+					"Materials"
+					[
+						{
+							"GUID" "e1926805d36f44c98f914c861243384e"
+						}
+						{
+							"GUID" "a991caf69a0845dd9132a46be1a42bff"
+						}
+						{
+							"GUID" "41a73f73b147483f86b793071620b451"
+						}
+						{
+							"GUID" "d405944a90af4db7beead50b2fc0f115"
+						}
+						{
+							"GUID" "e1926805d36f44c98f914c861243384e"
+						}
+						{
+							"GUID" "1d0cf6e7c3e54ade9693905eeb47332e"
+						}
+						{
+							"GUID" "7266717de98b446eaccfe45b84367d43"
+						}
+						{
+							"GUID" "e54a3da2c46e4927848fed4cdead560a"
+						}
+					]
+				}
+				{
+					"Coord"
+					{
+						"X" "1"
+						"Y" "3"
+					}
+					"Materials"
+					[
+						{
+							"GUID" "e1926805d36f44c98f914c861243384e"
+						}
+						{
+							"GUID" "a991caf69a0845dd9132a46be1a42bff"
+						}
+						{
+							"GUID" "41a73f73b147483f86b793071620b451"
+						}
+						{
+							"GUID" "d405944a90af4db7beead50b2fc0f115"
+						}
+						{
+							"GUID" "e1926805d36f44c98f914c861243384e"
+						}
+						{
+							"GUID" "1d0cf6e7c3e54ade9693905eeb47332e"
+						}
+						{
+							"GUID" "7266717de98b446eaccfe45b84367d43"
+						}
+						{
+							"GUID" "e54a3da2c46e4927848fed4cdead560a"
+						}
+					]
+				}
+				{
+					"Coord"
+					{
+						"X" "1"
+						"Y" "4"
+					}
+					"Materials"
+					[
+						{
+							"GUID" "e1926805d36f44c98f914c861243384e"
+						}
+						{
+							"GUID" "a991caf69a0845dd9132a46be1a42bff"
+						}
+						{
+							"GUID" "41a73f73b147483f86b793071620b451"
+						}
+						{
+							"GUID" "d405944a90af4db7beead50b2fc0f115"
+						}
+						{
+							"GUID" "e1926805d36f44c98f914c861243384e"
+						}
+						{
+							"GUID" "1d0cf6e7c3e54ade9693905eeb47332e"
+						}
+						{
+							"GUID" "7266717de98b446eaccfe45b84367d43"
+						}
+						{
+							"GUID" "e54a3da2c46e4927848fed4cdead560a"
+						}
+					]
+				}
+				{
+					"Coord"
+					{
+						"X" "2"
+						"Y" "-5"
+					}
+					"Materials"
+					[
+						{
+							"GUID" "e1926805d36f44c98f914c861243384e"
+						}
+						{
+							"GUID" "a991caf69a0845dd9132a46be1a42bff"
+						}
+						{
+							"GUID" "41a73f73b147483f86b793071620b451"
+						}
+						{
+							"GUID" "d405944a90af4db7beead50b2fc0f115"
+						}
+						{
+							"GUID" "e1926805d36f44c98f914c861243384e"
+						}
+						{
+							"GUID" "1d0cf6e7c3e54ade9693905eeb47332e"
+						}
+						{
+							"GUID" "7266717de98b446eaccfe45b84367d43"
+						}
+						{
+							"GUID" "e54a3da2c46e4927848fed4cdead560a"
+						}
+					]
+				}
+				{
+					"Coord"
+					{
+						"X" "2"
+						"Y" "-4"
+					}
+					"Materials"
+					[
+						{
+							"GUID" "e1926805d36f44c98f914c861243384e"
+						}
+						{
+							"GUID" "a991caf69a0845dd9132a46be1a42bff"
+						}
+						{
+							"GUID" "41a73f73b147483f86b793071620b451"
+						}
+						{
+							"GUID" "d405944a90af4db7beead50b2fc0f115"
+						}
+						{
+							"GUID" "e1926805d36f44c98f914c861243384e"
+						}
+						{
+							"GUID" "1d0cf6e7c3e54ade9693905eeb47332e"
+						}
+						{
+							"GUID" "7266717de98b446eaccfe45b84367d43"
+						}
+						{
+							"GUID" "e54a3da2c46e4927848fed4cdead560a"
+						}
+					]
+				}
+				{
+					"Coord"
+					{
+						"X" "2"
+						"Y" "-3"
+					}
+					"Materials"
+					[
+						{
+							"GUID" "e1926805d36f44c98f914c861243384e"
+						}
+						{
+							"GUID" "a991caf69a0845dd9132a46be1a42bff"
+						}
+						{
+							"GUID" "41a73f73b147483f86b793071620b451"
+						}
+						{
+							"GUID" "d405944a90af4db7beead50b2fc0f115"
+						}
+						{
+							"GUID" "e1926805d36f44c98f914c861243384e"
+						}
+						{
+							"GUID" "1d0cf6e7c3e54ade9693905eeb47332e"
+						}
+						{
+							"GUID" "7266717de98b446eaccfe45b84367d43"
+						}
+						{
+							"GUID" "e54a3da2c46e4927848fed4cdead560a"
+						}
+					]
+				}
+				{
+					"Coord"
+					{
+						"X" "2"
+						"Y" "-2"
+					}
+					"Materials"
+					[
+						{
+							"GUID" "e1926805d36f44c98f914c861243384e"
+						}
+						{
+							"GUID" "a991caf69a0845dd9132a46be1a42bff"
+						}
+						{
+							"GUID" "41a73f73b147483f86b793071620b451"
+						}
+						{
+							"GUID" "d405944a90af4db7beead50b2fc0f115"
+						}
+						{
+							"GUID" "e1926805d36f44c98f914c861243384e"
+						}
+						{
+							"GUID" "1d0cf6e7c3e54ade9693905eeb47332e"
+						}
+						{
+							"GUID" "7266717de98b446eaccfe45b84367d43"
+						}
+						{
+							"GUID" "e54a3da2c46e4927848fed4cdead560a"
+						}
+					]
+				}
+				{
+					"Coord"
+					{
+						"X" "2"
+						"Y" "-1"
+					}
+					"Materials"
+					[
+						{
+							"GUID" "e1926805d36f44c98f914c861243384e"
+						}
+						{
+							"GUID" "a991caf69a0845dd9132a46be1a42bff"
+						}
+						{
+							"GUID" "41a73f73b147483f86b793071620b451"
+						}
+						{
+							"GUID" "d405944a90af4db7beead50b2fc0f115"
+						}
+						{
+							"GUID" "e1926805d36f44c98f914c861243384e"
+						}
+						{
+							"GUID" "1d0cf6e7c3e54ade9693905eeb47332e"
+						}
+						{
+							"GUID" "7266717de98b446eaccfe45b84367d43"
+						}
+						{
+							"GUID" "e54a3da2c46e4927848fed4cdead560a"
+						}
+					]
+				}
+				{
+					"Coord"
+					{
+						"X" "2"
+						"Y" "0"
+					}
+					"Materials"
+					[
+						{
+							"GUID" "e1926805d36f44c98f914c861243384e"
+						}
+						{
+							"GUID" "a991caf69a0845dd9132a46be1a42bff"
+						}
+						{
+							"GUID" "41a73f73b147483f86b793071620b451"
+						}
+						{
+							"GUID" "d405944a90af4db7beead50b2fc0f115"
+						}
+						{
+							"GUID" "e1926805d36f44c98f914c861243384e"
+						}
+						{
+							"GUID" "1d0cf6e7c3e54ade9693905eeb47332e"
+						}
+						{
+							"GUID" "7266717de98b446eaccfe45b84367d43"
+						}
+						{
+							"GUID" "e54a3da2c46e4927848fed4cdead560a"
+						}
+					]
+				}
+				{
+					"Coord"
+					{
+						"X" "2"
+						"Y" "1"
+					}
+					"Materials"
+					[
+						{
+							"GUID" "e1926805d36f44c98f914c861243384e"
+						}
+						{
+							"GUID" "a991caf69a0845dd9132a46be1a42bff"
+						}
+						{
+							"GUID" "41a73f73b147483f86b793071620b451"
+						}
+						{
+							"GUID" "d405944a90af4db7beead50b2fc0f115"
+						}
+						{
+							"GUID" "e1926805d36f44c98f914c861243384e"
+						}
+						{
+							"GUID" "1d0cf6e7c3e54ade9693905eeb47332e"
+						}
+						{
+							"GUID" "7266717de98b446eaccfe45b84367d43"
+						}
+						{
+							"GUID" "e54a3da2c46e4927848fed4cdead560a"
+						}
+					]
+				}
+				{
+					"Coord"
+					{
+						"X" "2"
+						"Y" "2"
+					}
+					"Materials"
+					[
+						{
+							"GUID" "e1926805d36f44c98f914c861243384e"
+						}
+						{
+							"GUID" "a991caf69a0845dd9132a46be1a42bff"
+						}
+						{
+							"GUID" "41a73f73b147483f86b793071620b451"
+						}
+						{
+							"GUID" "d405944a90af4db7beead50b2fc0f115"
+						}
+						{
+							"GUID" "e1926805d36f44c98f914c861243384e"
+						}
+						{
+							"GUID" "1d0cf6e7c3e54ade9693905eeb47332e"
+						}
+						{
+							"GUID" "7266717de98b446eaccfe45b84367d43"
+						}
+						{
+							"GUID" "e54a3da2c46e4927848fed4cdead560a"
+						}
+					]
+				}
+				{
+					"Coord"
+					{
+						"X" "2"
+						"Y" "3"
+					}
+					"Materials"
+					[
+						{
+							"GUID" "e1926805d36f44c98f914c861243384e"
+						}
+						{
+							"GUID" "a991caf69a0845dd9132a46be1a42bff"
+						}
+						{
+							"GUID" "41a73f73b147483f86b793071620b451"
+						}
+						{
+							"GUID" "d405944a90af4db7beead50b2fc0f115"
+						}
+						{
+							"GUID" "e1926805d36f44c98f914c861243384e"
+						}
+						{
+							"GUID" "1d0cf6e7c3e54ade9693905eeb47332e"
+						}
+						{
+							"GUID" "7266717de98b446eaccfe45b84367d43"
+						}
+						{
+							"GUID" "e54a3da2c46e4927848fed4cdead560a"
+						}
+					]
+				}
+				{
+					"Coord"
+					{
+						"X" "2"
+						"Y" "4"
+					}
+					"Materials"
+					[
+						{
+							"GUID" "e1926805d36f44c98f914c861243384e"
+						}
+						{
+							"GUID" "a991caf69a0845dd9132a46be1a42bff"
+						}
+						{
+							"GUID" "41a73f73b147483f86b793071620b451"
+						}
+						{
+							"GUID" "d405944a90af4db7beead50b2fc0f115"
+						}
+						{
+							"GUID" "e1926805d36f44c98f914c861243384e"
+						}
+						{
+							"GUID" "1d0cf6e7c3e54ade9693905eeb47332e"
+						}
+						{
+							"GUID" "7266717de98b446eaccfe45b84367d43"
+						}
+						{
+							"GUID" "e54a3da2c46e4927848fed4cdead560a"
+						}
+					]
+				}
+				{
+					"Coord"
+					{
+						"X" "3"
+						"Y" "-5"
+					}
+					"Materials"
+					[
+						{
+							"GUID" "e1926805d36f44c98f914c861243384e"
+						}
+						{
+							"GUID" "a991caf69a0845dd9132a46be1a42bff"
+						}
+						{
+							"GUID" "41a73f73b147483f86b793071620b451"
+						}
+						{
+							"GUID" "d405944a90af4db7beead50b2fc0f115"
+						}
+						{
+							"GUID" "e1926805d36f44c98f914c861243384e"
+						}
+						{
+							"GUID" "1d0cf6e7c3e54ade9693905eeb47332e"
+						}
+						{
+							"GUID" "7266717de98b446eaccfe45b84367d43"
+						}
+						{
+							"GUID" "e54a3da2c46e4927848fed4cdead560a"
+						}
+					]
+				}
+				{
+					"Coord"
+					{
+						"X" "3"
+						"Y" "-4"
+					}
+					"Materials"
+					[
+						{
+							"GUID" "e1926805d36f44c98f914c861243384e"
+						}
+						{
+							"GUID" "a991caf69a0845dd9132a46be1a42bff"
+						}
+						{
+							"GUID" "41a73f73b147483f86b793071620b451"
+						}
+						{
+							"GUID" "d405944a90af4db7beead50b2fc0f115"
+						}
+						{
+							"GUID" "e1926805d36f44c98f914c861243384e"
+						}
+						{
+							"GUID" "1d0cf6e7c3e54ade9693905eeb47332e"
+						}
+						{
+							"GUID" "7266717de98b446eaccfe45b84367d43"
+						}
+						{
+							"GUID" "e54a3da2c46e4927848fed4cdead560a"
+						}
+					]
+				}
+				{
+					"Coord"
+					{
+						"X" "3"
+						"Y" "-3"
+					}
+					"Materials"
+					[
+						{
+							"GUID" "e1926805d36f44c98f914c861243384e"
+						}
+						{
+							"GUID" "a991caf69a0845dd9132a46be1a42bff"
+						}
+						{
+							"GUID" "41a73f73b147483f86b793071620b451"
+						}
+						{
+							"GUID" "d405944a90af4db7beead50b2fc0f115"
+						}
+						{
+							"GUID" "e1926805d36f44c98f914c861243384e"
+						}
+						{
+							"GUID" "1d0cf6e7c3e54ade9693905eeb47332e"
+						}
+						{
+							"GUID" "7266717de98b446eaccfe45b84367d43"
+						}
+						{
+							"GUID" "e54a3da2c46e4927848fed4cdead560a"
+						}
+					]
+				}
+				{
+					"Coord"
+					{
+						"X" "3"
+						"Y" "-2"
+					}
+					"Materials"
+					[
+						{
+							"GUID" "e1926805d36f44c98f914c861243384e"
+						}
+						{
+							"GUID" "a991caf69a0845dd9132a46be1a42bff"
+						}
+						{
+							"GUID" "41a73f73b147483f86b793071620b451"
+						}
+						{
+							"GUID" "d405944a90af4db7beead50b2fc0f115"
+						}
+						{
+							"GUID" "e1926805d36f44c98f914c861243384e"
+						}
+						{
+							"GUID" "1d0cf6e7c3e54ade9693905eeb47332e"
+						}
+						{
+							"GUID" "7266717de98b446eaccfe45b84367d43"
+						}
+						{
+							"GUID" "e54a3da2c46e4927848fed4cdead560a"
+						}
+					]
+				}
+				{
+					"Coord"
+					{
+						"X" "3"
+						"Y" "-1"
+					}
+					"Materials"
+					[
+						{
+							"GUID" "e1926805d36f44c98f914c861243384e"
+						}
+						{
+							"GUID" "a991caf69a0845dd9132a46be1a42bff"
+						}
+						{
+							"GUID" "41a73f73b147483f86b793071620b451"
+						}
+						{
+							"GUID" "d405944a90af4db7beead50b2fc0f115"
+						}
+						{
+							"GUID" "e1926805d36f44c98f914c861243384e"
+						}
+						{
+							"GUID" "1d0cf6e7c3e54ade9693905eeb47332e"
+						}
+						{
+							"GUID" "7266717de98b446eaccfe45b84367d43"
+						}
+						{
+							"GUID" "e54a3da2c46e4927848fed4cdead560a"
+						}
+					]
+				}
+				{
+					"Coord"
+					{
+						"X" "3"
+						"Y" "0"
+					}
+					"Materials"
+					[
+						{
+							"GUID" "e1926805d36f44c98f914c861243384e"
+						}
+						{
+							"GUID" "a991caf69a0845dd9132a46be1a42bff"
+						}
+						{
+							"GUID" "41a73f73b147483f86b793071620b451"
+						}
+						{
+							"GUID" "d405944a90af4db7beead50b2fc0f115"
+						}
+						{
+							"GUID" "e1926805d36f44c98f914c861243384e"
+						}
+						{
+							"GUID" "1d0cf6e7c3e54ade9693905eeb47332e"
+						}
+						{
+							"GUID" "7266717de98b446eaccfe45b84367d43"
+						}
+						{
+							"GUID" "e54a3da2c46e4927848fed4cdead560a"
+						}
+					]
+				}
+				{
+					"Coord"
+					{
+						"X" "3"
+						"Y" "1"
+					}
+					"Materials"
+					[
+						{
+							"GUID" "e1926805d36f44c98f914c861243384e"
+						}
+						{
+							"GUID" "a991caf69a0845dd9132a46be1a42bff"
+						}
+						{
+							"GUID" "41a73f73b147483f86b793071620b451"
+						}
+						{
+							"GUID" "d405944a90af4db7beead50b2fc0f115"
+						}
+						{
+							"GUID" "e1926805d36f44c98f914c861243384e"
+						}
+						{
+							"GUID" "1d0cf6e7c3e54ade9693905eeb47332e"
+						}
+						{
+							"GUID" "7266717de98b446eaccfe45b84367d43"
+						}
+						{
+							"GUID" "e54a3da2c46e4927848fed4cdead560a"
+						}
+					]
+				}
+				{
+					"Coord"
+					{
+						"X" "3"
+						"Y" "2"
+					}
+					"Materials"
+					[
+						{
+							"GUID" "e1926805d36f44c98f914c861243384e"
+						}
+						{
+							"GUID" "a991caf69a0845dd9132a46be1a42bff"
+						}
+						{
+							"GUID" "41a73f73b147483f86b793071620b451"
+						}
+						{
+							"GUID" "d405944a90af4db7beead50b2fc0f115"
+						}
+						{
+							"GUID" "e1926805d36f44c98f914c861243384e"
+						}
+						{
+							"GUID" "1d0cf6e7c3e54ade9693905eeb47332e"
+						}
+						{
+							"GUID" "7266717de98b446eaccfe45b84367d43"
+						}
+						{
+							"GUID" "e54a3da2c46e4927848fed4cdead560a"
+						}
+					]
+				}
+				{
+					"Coord"
+					{
+						"X" "3"
+						"Y" "3"
+					}
+					"Materials"
+					[
+						{
+							"GUID" "e1926805d36f44c98f914c861243384e"
+						}
+						{
+							"GUID" "a991caf69a0845dd9132a46be1a42bff"
+						}
+						{
+							"GUID" "41a73f73b147483f86b793071620b451"
+						}
+						{
+							"GUID" "d405944a90af4db7beead50b2fc0f115"
+						}
+						{
+							"GUID" "e1926805d36f44c98f914c861243384e"
+						}
+						{
+							"GUID" "1d0cf6e7c3e54ade9693905eeb47332e"
+						}
+						{
+							"GUID" "7266717de98b446eaccfe45b84367d43"
+						}
+						{
+							"GUID" "e54a3da2c46e4927848fed4cdead560a"
+						}
+					]
+				}
+				{
+					"Coord"
+					{
+						"X" "3"
+						"Y" "4"
+					}
+					"Materials"
+					[
+						{
+							"GUID" "e1926805d36f44c98f914c861243384e"
+						}
+						{
+							"GUID" "a991caf69a0845dd9132a46be1a42bff"
+						}
+						{
+							"GUID" "41a73f73b147483f86b793071620b451"
+						}
+						{
+							"GUID" "d405944a90af4db7beead50b2fc0f115"
+						}
+						{
+							"GUID" "e1926805d36f44c98f914c861243384e"
+						}
+						{
+							"GUID" "1d0cf6e7c3e54ade9693905eeb47332e"
+						}
+						{
+							"GUID" "7266717de98b446eaccfe45b84367d43"
+						}
+						{
+							"GUID" "e54a3da2c46e4927848fed4cdead560a"
+						}
+					]
+				}
+				{
+					"Coord"
+					{
+						"X" "4"
+						"Y" "-5"
+					}
+					"Materials"
+					[
+						{
+							"GUID" "e1926805d36f44c98f914c861243384e"
+						}
+						{
+							"GUID" "a991caf69a0845dd9132a46be1a42bff"
+						}
+						{
+							"GUID" "41a73f73b147483f86b793071620b451"
+						}
+						{
+							"GUID" "d405944a90af4db7beead50b2fc0f115"
+						}
+						{
+							"GUID" "e1926805d36f44c98f914c861243384e"
+						}
+						{
+							"GUID" "1d0cf6e7c3e54ade9693905eeb47332e"
+						}
+						{
+							"GUID" "7266717de98b446eaccfe45b84367d43"
+						}
+						{
+							"GUID" "e54a3da2c46e4927848fed4cdead560a"
+						}
+					]
+				}
+				{
+					"Coord"
+					{
+						"X" "4"
+						"Y" "-4"
+					}
+					"Materials"
+					[
+						{
+							"GUID" "e1926805d36f44c98f914c861243384e"
+						}
+						{
+							"GUID" "a991caf69a0845dd9132a46be1a42bff"
+						}
+						{
+							"GUID" "41a73f73b147483f86b793071620b451"
+						}
+						{
+							"GUID" "d405944a90af4db7beead50b2fc0f115"
+						}
+						{
+							"GUID" "e1926805d36f44c98f914c861243384e"
+						}
+						{
+							"GUID" "1d0cf6e7c3e54ade9693905eeb47332e"
+						}
+						{
+							"GUID" "7266717de98b446eaccfe45b84367d43"
+						}
+						{
+							"GUID" "e54a3da2c46e4927848fed4cdead560a"
+						}
+					]
+				}
+				{
+					"Coord"
+					{
+						"X" "4"
+						"Y" "-3"
+					}
+					"Materials"
+					[
+						{
+							"GUID" "e1926805d36f44c98f914c861243384e"
+						}
+						{
+							"GUID" "a991caf69a0845dd9132a46be1a42bff"
+						}
+						{
+							"GUID" "41a73f73b147483f86b793071620b451"
+						}
+						{
+							"GUID" "d405944a90af4db7beead50b2fc0f115"
+						}
+						{
+							"GUID" "e1926805d36f44c98f914c861243384e"
+						}
+						{
+							"GUID" "1d0cf6e7c3e54ade9693905eeb47332e"
+						}
+						{
+							"GUID" "7266717de98b446eaccfe45b84367d43"
+						}
+						{
+							"GUID" "e54a3da2c46e4927848fed4cdead560a"
+						}
+					]
+				}
+				{
+					"Coord"
+					{
+						"X" "4"
+						"Y" "-2"
+					}
+					"Materials"
+					[
+						{
+							"GUID" "e1926805d36f44c98f914c861243384e"
+						}
+						{
+							"GUID" "a991caf69a0845dd9132a46be1a42bff"
+						}
+						{
+							"GUID" "41a73f73b147483f86b793071620b451"
+						}
+						{
+							"GUID" "d405944a90af4db7beead50b2fc0f115"
+						}
+						{
+							"GUID" "e1926805d36f44c98f914c861243384e"
+						}
+						{
+							"GUID" "1d0cf6e7c3e54ade9693905eeb47332e"
+						}
+						{
+							"GUID" "7266717de98b446eaccfe45b84367d43"
+						}
+						{
+							"GUID" "e54a3da2c46e4927848fed4cdead560a"
+						}
+					]
+				}
+				{
+					"Coord"
+					{
+						"X" "4"
+						"Y" "-1"
+					}
+					"Materials"
+					[
+						{
+							"GUID" "e1926805d36f44c98f914c861243384e"
+						}
+						{
+							"GUID" "a991caf69a0845dd9132a46be1a42bff"
+						}
+						{
+							"GUID" "41a73f73b147483f86b793071620b451"
+						}
+						{
+							"GUID" "d405944a90af4db7beead50b2fc0f115"
+						}
+						{
+							"GUID" "e1926805d36f44c98f914c861243384e"
+						}
+						{
+							"GUID" "1d0cf6e7c3e54ade9693905eeb47332e"
+						}
+						{
+							"GUID" "7266717de98b446eaccfe45b84367d43"
+						}
+						{
+							"GUID" "e54a3da2c46e4927848fed4cdead560a"
+						}
+					]
+				}
+				{
+					"Coord"
+					{
+						"X" "4"
+						"Y" "0"
+					}
+					"Materials"
+					[
+						{
+							"GUID" "e1926805d36f44c98f914c861243384e"
+						}
+						{
+							"GUID" "a991caf69a0845dd9132a46be1a42bff"
+						}
+						{
+							"GUID" "41a73f73b147483f86b793071620b451"
+						}
+						{
+							"GUID" "d405944a90af4db7beead50b2fc0f115"
+						}
+						{
+							"GUID" "e1926805d36f44c98f914c861243384e"
+						}
+						{
+							"GUID" "1d0cf6e7c3e54ade9693905eeb47332e"
+						}
+						{
+							"GUID" "7266717de98b446eaccfe45b84367d43"
+						}
+						{
+							"GUID" "e54a3da2c46e4927848fed4cdead560a"
+						}
+					]
+				}
+				{
+					"Coord"
+					{
+						"X" "4"
+						"Y" "1"
+					}
+					"Materials"
+					[
+						{
+							"GUID" "e1926805d36f44c98f914c861243384e"
+						}
+						{
+							"GUID" "a991caf69a0845dd9132a46be1a42bff"
+						}
+						{
+							"GUID" "41a73f73b147483f86b793071620b451"
+						}
+						{
+							"GUID" "d405944a90af4db7beead50b2fc0f115"
+						}
+						{
+							"GUID" "e1926805d36f44c98f914c861243384e"
+						}
+						{
+							"GUID" "1d0cf6e7c3e54ade9693905eeb47332e"
+						}
+						{
+							"GUID" "7266717de98b446eaccfe45b84367d43"
+						}
+						{
+							"GUID" "e54a3da2c46e4927848fed4cdead560a"
+						}
+					]
+				}
+				{
+					"Coord"
+					{
+						"X" "4"
+						"Y" "2"
+					}
+					"Materials"
+					[
+						{
+							"GUID" "e1926805d36f44c98f914c861243384e"
+						}
+						{
+							"GUID" "a991caf69a0845dd9132a46be1a42bff"
+						}
+						{
+							"GUID" "41a73f73b147483f86b793071620b451"
+						}
+						{
+							"GUID" "d405944a90af4db7beead50b2fc0f115"
+						}
+						{
+							"GUID" "e1926805d36f44c98f914c861243384e"
+						}
+						{
+							"GUID" "1d0cf6e7c3e54ade9693905eeb47332e"
+						}
+						{
+							"GUID" "7266717de98b446eaccfe45b84367d43"
+						}
+						{
+							"GUID" "e54a3da2c46e4927848fed4cdead560a"
+						}
+					]
+				}
+				{
+					"Coord"
+					{
+						"X" "4"
+						"Y" "3"
+					}
+					"Materials"
+					[
+						{
+							"GUID" "e1926805d36f44c98f914c861243384e"
+						}
+						{
+							"GUID" "a991caf69a0845dd9132a46be1a42bff"
+						}
+						{
+							"GUID" "41a73f73b147483f86b793071620b451"
+						}
+						{
+							"GUID" "d405944a90af4db7beead50b2fc0f115"
+						}
+						{
+							"GUID" "e1926805d36f44c98f914c861243384e"
+						}
+						{
+							"GUID" "1d0cf6e7c3e54ade9693905eeb47332e"
+						}
+						{
+							"GUID" "7266717de98b446eaccfe45b84367d43"
+						}
+						{
+							"GUID" "e54a3da2c46e4927848fed4cdead560a"
+						}
+					]
+				}
+				{
+					"Coord"
+					{
+						"X" "4"
+						"Y" "4"
+					}
+					"Materials"
+					[
+						{
+							"GUID" "e1926805d36f44c98f914c861243384e"
+						}
+						{
+							"GUID" "a991caf69a0845dd9132a46be1a42bff"
+						}
+						{
+							"GUID" "41a73f73b147483f86b793071620b451"
+						}
+						{
+							"GUID" "d405944a90af4db7beead50b2fc0f115"
+						}
+						{
+							"GUID" "e1926805d36f44c98f914c861243384e"
+						}
+						{
+							"GUID" "1d0cf6e7c3e54ade9693905eeb47332e"
+						}
+						{
+							"GUID" "7266717de98b446eaccfe45b84367d43"
+						}
+						{
+							"GUID" "e54a3da2c46e4927848fed4cdead560a"
+						}
+					]
+				}
+			]
+		}
+	}
+	{
+		"Type" "SDG.Framework.Foliage.FoliageSystem, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+		"Instance_ID" "40"
+		"Item"
+		{
+			"Version" "2"
+			"Tiles"
+			[
+			]
+		}
+	}
+	{
+		"Type" "SDG.Framework.Foliage.FoliageVolume, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+		"Instance_ID" "41"
+		"Item"
+		{
+			"Position"
+			{
+				"X" "0"
+				"Y" "764.9989"
+				"Z" "0"
+			}
+			"Rotation"
+			{
+				"X" "0"
+				"Y" "0"
+				"Z" "0"
+				"W" "1"
+			}
+			"Scale"
+			{
+				"X" "10446.58"
+				"Y" "3577.998"
+				"Z" "11052.54"
+			}
+			"Shape" "Box"
+			"Mode" "ADDITIVE"
+			"Instanced_Meshes" "true"
+			"Resources" "true"
+			"Objects" "true"
+		}
+	}
+	{
+		"Type" "SDG.Unturned.LocationDevkitNode, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+		"Instance_ID" "46"
+		"Item"
+		{
+			"Position"
+			{
+				"X" "3175.132"
+				"Y" "33.08508"
+				"Z" "749.7543"
+			}
+			"Rotation"
+			{
+				"X" "0"
+				"Y" "0"
+				"Z" "0"
+				"W" "1"
+			}
+			"Scale"
+			{
+				"X" "1"
+				"Y" "1"
+				"Z" "1"
+			}
+			"LocationName" "Water Treatment Plant"
+			"IsVisibleOnMap" "true"
+		}
+	}
+	{
+		"Type" "SDG.Unturned.LocationDevkitNode, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+		"Instance_ID" "47"
+		"Item"
+		{
+			"Position"
+			{
+				"X" "1445.481"
+				"Y" "822.0967"
+				"Z" "1718.842"
+			}
+			"Rotation"
+			{
+				"X" "0"
+				"Y" "0"
+				"Z" "0"
+				"W" "1"
+			}
+			"Scale"
+			{
+				"X" "1"
+				"Y" "1"
+				"Z" "1"
+			}
+			"LocationName" "Moutaintop Radio Tower"
+			"IsVisibleOnMap" "true"
+		}
+	}
+	{
+		"Type" "SDG.Unturned.LocationDevkitNode, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+		"Instance_ID" "48"
+		"Item"
+		{
+			"Position"
+			{
+				"X" "-825.2514"
+				"Y" "337.7438"
+				"Z" "-849.6608"
+			}
+			"Rotation"
+			{
+				"X" "0"
+				"Y" "0"
+				"Z" "0"
+				"W" "1"
+			}
+			"Scale"
+			{
+				"X" "1"
+				"Y" "1"
+				"Z" "1"
+			}
+			"LocationName" "Telecommunications Tower"
+			"IsVisibleOnMap" "true"
+		}
+	}
+	{
+		"Type" "SDG.Unturned.LocationDevkitNode, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+		"Instance_ID" "49"
+		"Item"
+		{
+			"Position"
+			{
+				"X" "-163.8205"
+				"Y" "154.455"
+				"Z" "-2511.708"
+			}
+			"Rotation"
+			{
+				"X" "0"
+				"Y" "0"
+				"Z" "0"
+				"W" "1"
+			}
+			"Scale"
+			{
+				"X" "1"
+				"Y" "1"
+				"Z" "1"
+			}
+			"LocationName" "Mediuml Ciity & Factory Disctrict"
+			"IsVisibleOnMap" "true"
+		}
+	}
+	{
+		"Type" "SDG.Unturned.LocationDevkitNode, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+		"Instance_ID" "50"
+		"Item"
+		{
+			"Position"
+			{
+				"X" "11.88228"
+				"Y" "154.5006"
+				"Z" "43.38557"
+			}
+			"Rotation"
+			{
+				"X" "0"
+				"Y" "0"
+				"Z" "0"
+				"W" "1"
+			}
+			"Scale"
+			{
+				"X" "1"
+				"Y" "1"
+				"Z" "1"
+			}
+			"LocationName" "Medium City"
+			"IsVisibleOnMap" "true"
+		}
+	}
+	{
+		"Type" "SDG.Unturned.LocationDevkitNode, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+		"Instance_ID" "51"
+		"Item"
+		{
+			"Position"
+			{
+				"X" "-1381.972"
+				"Y" "152.8351"
+				"Z" "1004.61"
+			}
+			"Rotation"
+			{
+				"X" "0"
+				"Y" "0"
+				"Z" "0"
+				"W" "1"
+			}
+			"Scale"
+			{
+				"X" "1"
+				"Y" "1"
+				"Z" "1"
+			}
+			"LocationName" "Medium City"
+			"IsVisibleOnMap" "true"
+		}
+	}
+	{
+		"Type" "SDG.Unturned.LocationDevkitNode, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+		"Instance_ID" "52"
+		"Item"
+		{
+			"Position"
+			{
+				"X" "1776.843"
+				"Y" "155.0486"
+				"Z" "3474.662"
+			}
+			"Rotation"
+			{
+				"X" "0"
+				"Y" "0"
+				"Z" "0"
+				"W" "1"
+			}
+			"Scale"
+			{
+				"X" "1"
+				"Y" "1"
+				"Z" "1"
+			}
+			"LocationName" "Smaller City"
+			"IsVisibleOnMap" "true"
+		}
+	}
+	{
+		"Type" "SDG.Unturned.LocationDevkitNode, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+		"Instance_ID" "54"
+		"Item"
+		{
+			"Position"
+			{
+				"X" "-2825.109"
+				"Y" "45.73975"
+				"Z" "-3020.396"
+			}
+			"Rotation"
+			{
+				"X" "0"
+				"Y" "0"
+				"Z" "0"
+				"W" "1"
+			}
+			"Scale"
+			{
+				"X" "1"
+				"Y" "1"
+				"Z" "1"
+			}
+			"LocationName" "Main Commercial Airport"
+			"IsVisibleOnMap" "true"
+		}
+	}
+	{
+		"Type" "SDG.Unturned.LocationDevkitNode, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+		"Instance_ID" "56"
+		"Item"
+		{
+			"Position"
+			{
+				"X" "1175.713"
+				"Y" "293.8899"
+				"Z" "2551.847"
+			}
+			"Rotation"
+			{
+				"X" "0"
+				"Y" "0"
+				"Z" "0"
+				"W" "1"
+			}
+			"Scale"
+			{
+				"X" "1"
+				"Y" "1"
+				"Z" "1"
+			}
+			"LocationName" "Military Airport"
+			"IsVisibleOnMap" "true"
+		}
+	}
+	{
+		"Type" "SDG.Framework.Water.WaterVolume, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+		"Instance_ID" "60"
+		"Item"
+		{
+			"Position"
+			{
+				"X" "1416.157"
+				"Y" "230.527"
+				"Z" "678.8626"
+			}
+			"Rotation"
+			{
+				"X" "0"
+				"Y" "0"
+				"Z" "0"
+				"W" "1"
+			}
+			"Scale"
+			{
+				"X" "301.7551"
+				"Y" "59.69194"
+				"Z" "249.5728"
+			}
+			"Shape" "Box"
+			"Is_Surface_Visible" "true"
+			"Is_Reflection_Visible" "false"
+			"Is_Sea_Level" "false"
+			"Water_Type" "SALTY"
+		}
+	}
+]
